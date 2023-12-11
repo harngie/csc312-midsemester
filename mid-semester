@@ -1,8 +1,9 @@
 Checking whether a string is a palindrome or not
-#include <iostream>
-using namespace std;
-push();
-pop();
+#include <stdio.h>
+#include<string.h>;
+
+
+;
 
 3. Question
 Function To perform a push operation on a dynamically allocated stack
