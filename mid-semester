@@ -1,0 +1,43 @@
+Checking whether a string is a palindrome or not
+#include <iostream>
+using namespace std;
+push();
+pop();
+
+3. Question
+Function To perform a push operation on a dynamically allocated stack
+#include <iostream>
+
+using namespace std;
+
+int main()
+
+{ int Node
+int Temp
+int Link
+
+{ float Number ;
+Node * Link ;
+} ;
+class STACK
+{ Node*Top ;
+STACK( ) 
+{Top = NULL ;}
+void PUSH( ) ;
+void POP( ) ;
+STACK( ) ;
+} ;
+void STACK:: PUSH( )
+{ Node * Temp;
+Temp =new Node;
+if(Temp= =NULL)
+{
+cout<<”\nNo memory”;
+}
+cout<<”\nEnter Number: “;
+cin>>Temp = Number;
+Temp = Link=Top;
+Top=Temp;
+}
+
+
