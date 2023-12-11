@@ -1,6 +1,8 @@
 Checking whether a string is a palindrome or not
 #include <stdio.h>
 #include<string.h>;
+#include<stdlib.h> 
+struct node
 
 
 ;
